@@ -11,7 +11,7 @@
 
 ### 🕹️ About Me
 
-- 🌸 Frontend-leaning web engineer passionate about building smooth, performant and accessible UIs!
+- 🌸 Frontend web engineer passionate about building smooth, performant and accessible UIs!
 - ⚛️ Specializing in React, Redux, and TypeScript
 - 🎮 Gamer - BG3 has taken over my life
 - 🍿 Anime lover — recommendations always welcome!
